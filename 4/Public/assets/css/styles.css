@@ -1,0 +1,30 @@
+#cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#cards div {
+  width: 250px;
+  margin: 10px;
+  text-align: center;
+  height: 400px;
+}
+
+#cards img {
+  width: 100%;
+  height: 200px;
+}
+
+#cards h1 {
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+#cards h6 {
+  font-size: 12px;
+}
+
+body {
+  box-sizing: border-box;
+}
+
